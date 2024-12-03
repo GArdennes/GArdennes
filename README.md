@@ -3,7 +3,7 @@
 🎓 About Me:
 A passionate Computer Engineering graduate from the University of Pretoria, specializing in IoT, AI technologies, and software development. My current research focuses on optimizing microservice deployments and intelligent edge computing.
 
-💭 Dream Projects
+💡 Current Projects
 
 1. Visualising Google Trends:
 Aim to create intuitive, real-time data visualization of global search patterns
