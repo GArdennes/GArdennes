@@ -5,11 +5,7 @@ A passionate Computer Engineering graduate from the University of Pretoria, spec
 
 💡 Current Projects
 
-1. Visualising Google Trends:
-Aim to create intuitive, real-time data visualization of global search patterns
-
-2. IP Geolocation Dashboard:
-Featuring dynamic IP tracking, geospatial data visualization, and network flow analysis
+1. ----
 
 
 🏆 Key Projects
@@ -26,6 +22,9 @@ Microservices architecture implementation
 
 4. Audio to Notes application:
 Built with streamlit and groqcloud.
+
+5. Global Google Trends 3D visualiser:
+Built with React native. 
 
 
 🌱 Always Learning:
